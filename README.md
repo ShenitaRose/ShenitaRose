@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ShenitaRose/ShenitaRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shenita Rose, frontend developer specialising in nextJS, tailwindCSS, react, responsive design.
 
-Here are some ideas to get you started:
+### My recent projects
+| Website | Screenshot  | Links  |
+| ------- | --- | --- |
+| Portfolio website | ![Screenshot 2023-01-17 at 11 46 30](https://user-images.githubusercontent.com/89140305/212891127-9b0a2168-cc91-42a8-a82e-c3aa8a71cad0.png) | [Github](https://github.com/ShenitaRose/rhoses-blog), [Website](https://shenita.dev) |
+| Sims Blog | ![Screenshot 2023-01-17 at 11 49 02](https://user-images.githubusercontent.com/89140305/212891605-f46aff17-f828-4fe3-acdf-2a0e3de07716.png) | [Github](https://github.com/ShenitaRose/rhoses-blog), [Website](https://shenita.dev) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+💌 I would love to work together! Contact me on [linkedin](https://www.linkedin.com/in/shenita-rose-84b669188/)
